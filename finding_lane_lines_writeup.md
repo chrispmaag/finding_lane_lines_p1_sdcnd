@@ -25,15 +25,15 @@ we use OpenCV's line function to draw these average lines onto the original imag
 
 Here is a sample input image:
 
-![Input Image][/images/whiteCarLaneSwitch.jpg]
+![Input Image](/images/whiteCarLaneSwitch.jpg)
 
 With lane lines detected:
 
-![Image With Lane Line Segments][/images/output_whiteCarLaneSwitch.jpg]
+![Image With Lane Line Segments](/images/output_whiteCarLaneSwitch.jpg)
 
 With projected lane lines:
 
-![Output Image With Projected Lane Lines][/images/output_line_whiteCarLaneSwitch.jpg]
+![Output Image With Projected Lane Lines](/images/output_line_whiteCarLaneSwitch.jpg)
 
 
 ### 2. Potential Shortcomings With Current Pipeline
